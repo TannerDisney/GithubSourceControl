@@ -5,13 +5,15 @@ First source control commit for Visual Studio and .NET
 
 **Output:**
 ```
-__On Failure__
+On Failure
+---------
 What would you like to do? (EX. Hello World):
 Play a Game
 
 Sorry That does not exist. Please try again.
 
-__On Success__
+On Success
+----------
 What would you like to do? (EX. Hello World):
 Hello World
 
