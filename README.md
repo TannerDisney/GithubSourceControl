@@ -12,3 +12,7 @@ Hello World!
 
 ## Requirements
 This project requires Visual Studio 2017+ and Windows Desktop Workloads
+## **TODO**
+> None as of July 1st, 2019
+## **Project Last Updated**
+> July 1st, 2019
